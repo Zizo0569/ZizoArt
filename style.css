@@ -1,0 +1,16 @@
+.footer {
+    background-color: rgb(207, 204, 204);
+}
+#contactButton{
+    max-width: 25em;
+}
+
+#btnSubmit {
+    appearance: none;
+    border: none;
+    background-color: rgb(134, 7, 7);
+    padding: 0.25rem 0.5rem;
+    color: aliceblue;
+    border-radius: 5px;
+    transition: all 250ms ease;
+}
